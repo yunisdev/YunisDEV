@@ -1,1 +1,1 @@
-# [![waylon walker header](https://raw.githubusercontent.com/YunisDEV/YunisDEV/main/assets/banner.svg)](https://yunisdev.github.io)
+# [![yunis huseynzade header](https://raw.githubusercontent.com/YunisDEV/YunisDEV/main/assets/banner.png)](https://yunisdev.github.io)
