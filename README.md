@@ -16,3 +16,12 @@
     <!-- Web -->
     <a href="https://yunisdev.github.io"><img height="30" src="https://raw.githubusercontent.com/YunisDEV/YunisDEV/master/assets/web.svg"></a>
 </p>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/YunisDEV/YunisDEV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunisDEV&hide=" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YunisDEV&show_icons=true" alt="Martin's GitHub Stats" />
+</a>
