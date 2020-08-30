@@ -17,7 +17,7 @@
     <a href="https://yunisdev.github.io"><img height="30" src="https://raw.githubusercontent.com/YunisDEV/YunisDEV/master/assets/web.svg"></a>
 </p>
 
-# Hi
+# Hi <img src="https://raw.githubusercontent.com/YunisDEV/YunisDEV/master/assets/wave.gif" width="30px">
 
 I am Yunis. I am web developer from Azerbaijan. I love researching so much. I am interested in Programming, Designing, Music, Art, Popular science (especially Astronomy and Physics) and other thing.
 Scroll the page to know more about me...
