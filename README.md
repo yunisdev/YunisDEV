@@ -22,6 +22,9 @@
 I am Yunis. I am web developer from Azerbaijan. I love researching so much. I am interested in Programming, Designing, Music, Art, Popular science (especially Astronomy and Physics) and other thing.
 Scroll the page to know more about me...
 
+## 🔧 Tech Stack
+...
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/YunisDEV/YunisDEV">
