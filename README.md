@@ -28,8 +28,8 @@ Scroll the page to know more about me...
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/YunisDEV/YunisDEV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunisDEV&hide=" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunisDEV" />
 </a><br><br>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YunisDEV&show_icons=true" alt="Martin's GitHub Stats" />
+<a href="https://github.com/YunisDEV">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YunisDEV&show_icons=true" alt="YunisDEV's GitHub stats" />
 </a>
