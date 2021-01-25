@@ -11,7 +11,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/YunisDEV/YunisDEV/blob/master/assets/coding.gif?raw=true" width="400" height="300" />
+<img alt="GIF" src="https://github.com/YunisDEV/YunisDEV/blob/master/assets/coding.gif?raw=true" width="100%"/>
   
 
 **Talking about Personal Stuffs:**
@@ -33,6 +33,6 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YunisDEV&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunisDEV&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
