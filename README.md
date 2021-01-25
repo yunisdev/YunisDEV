@@ -11,7 +11,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/YunisDEV/YunisDEV/blob/master/assets/coding.gif?raw=true" width="408" height="408" />
   
 
 **Talking about Personal Stuffs:**
