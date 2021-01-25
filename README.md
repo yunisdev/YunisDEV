@@ -11,7 +11,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/YunisDEV/YunisDEV/blob/master/assets/coding.gif?raw=true" width="408" height="408" />
+<img align="right" alt="GIF" src="https://github.com/YunisDEV/YunisDEV/blob/master/assets/coding.gif?raw=true" width="400" height="300" />
   
 
 **Talking about Personal Stuffs:**
