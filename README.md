@@ -26,11 +26,11 @@ I am 17 y.o Web Developer from Azerbaijan who is fond of learning.
 
 <!--START_SECTION:waka-->
 ```text
-C++          1 hr 18 mins    ████████▓░░░░░░░░░░░░░░░░   34.32 % 
-Python       1 hr 12 mins    ████████░░░░░░░░░░░░░░░░░   31.60 % 
-Markdown     46 mins         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Text         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+C++          1 hr 18 mins    ████████▒░░░░░░░░░░░░░░░░   33.19 % 
+Python       1 hr 12 mins    ███████▓░░░░░░░░░░░░░░░░░   30.55 % 
+Markdown     47 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Text         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+JavaScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 <!--END_SECTION:waka-->
 
