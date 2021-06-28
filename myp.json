@@ -1,0 +1,16 @@
+{
+    "author": "",
+    "author_email": "",
+    "config": {},
+    "description": "",
+    "name": "YunisDEV",
+    "scripts": {
+        "build": {
+            "command": "python README.py",
+            "description": ""
+        }
+    },
+    "url": "",
+    "use_environment": true,
+    "version": "0.0.0"
+}
