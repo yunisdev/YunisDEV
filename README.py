@@ -79,7 +79,8 @@ socialLinks = [
 class ConnectWithMe(Section):
     title = "Connect with me"
     inner = [
-        *[Link(f"""<img alt="{i["alt"]}" src="https://img.shields.io/badge/{i["logo"]["text"]}-{i["logo"]["backColor"]}.svg?&style={i["logo"]["style"]}&logo={i["logo"]["logo"]}&logoColor={i["logo"]["logoColor"]}" />""", i["href"]) for i in socialLinks],
+        *[Link(f"""<img align="left" alt="{i["alt"]}" src="https://img.shields.io/badge/{i["logo"]["text"]}-{i["logo"]["backColor"]}.svg?&style={i["logo"]["style"]}&logo={i["logo"]["logo"]}&logoColor={i["logo"]["logoColor"]}" />""", i["href"]) for i in socialLinks],
+        P("<br/><br/>")
     ]
 
 
@@ -97,7 +98,7 @@ expertiseBadges = [
 class Expertise(Section):
     title = "Expertise"
     inner = [
-        *[P(f"""<img alt="{i["name"]}" src="https://img.shields.io/badge/{i["name"]}-{i["backColor"]}.svg?&style={i["style"]}&logo={i["name"]}&logoColor={i["logoColor"]}" />""") for i in expertiseBadges]
+        *[P(f"""<img align="left" alt="{i["name"]}" src="https://img.shields.io/badge/{i["name"]}-{i["backColor"]}.svg?&style={i["style"]}&logo={i["name"]}&logoColor={i["logoColor"]}" />""") for i in expertiseBadges]
     ]
 
 
