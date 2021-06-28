@@ -91,7 +91,28 @@ expertiseBadges = [
         "style": "for-the-badge",
         "logoColor": "%2361DAFB",
         "backColor": "%2320232a",
-    }
+    },
+    {
+        "name": "python",
+        "text": "python",
+        "style": "for-the-badge",
+        "logoColor": "white",
+        "backColor": "%234B8BBE",
+    },
+    {
+        "name": "javascript",
+        "text": "javascript",
+        "style": "for-the-badge",
+        "logoColor": "%23323330",
+        "backColor": "%23F0DB4F",
+    },
+    {
+        "name": "django",
+        "text": "django",
+        "style": "for-the-badge",
+        "logoColor": "%23323330",
+        "backColor": "%23F0DB4F",
+    },
 ]
 
 

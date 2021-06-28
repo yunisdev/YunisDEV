@@ -27,3 +27,9 @@ I am 17 y.o Web Developer from Azerbaijan🇦🇿
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
+<img align="left" alt="python" src="https://img.shields.io/badge/python-%234B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white" />
+
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" />
+
+<img align="left" alt="django" src="https://img.shields.io/badge/django-%23F0DB4F.svg?&style=for-the-badge&logo=django&logoColor=%23323330" />
+
