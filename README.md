@@ -15,21 +15,20 @@ I am 17 y.o Web Developer from Azerbaijan🇦🇿
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yunisdev)
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://yunisdev.medium.com/)
-
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/yunisdev/)
-
-<br/><br/>
+[<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yunisdev)[<img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://yunisdev.medium.com/)[<img alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/yunisdev/)
 
 ## Expertise
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img alt="python" src="https://img.shields.io/badge/python-%234B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white" /><img alt="javascript" src="https://img.shields.io/badge/javascript-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" /><img alt="django" src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 
-<img align="left" alt="python" src="https://img.shields.io/badge/python-%234B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white" />
+**📊 This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" />
+**📈 My GitHub Stats:**
 
-<img align="left" alt="django" src="https://img.shields.io/badge/django-%23F0DB4F.svg?&style=for-the-badge&logo=django&logoColor=%23323330" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YunisDEV&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunisDEV&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 

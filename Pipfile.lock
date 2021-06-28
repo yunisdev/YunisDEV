@@ -34,11 +34,11 @@
         },
         "readme-py": {
             "hashes": [
-                "sha256:0ed35aff2dd893fe1774d2db438ecb9366cdadb9bcf7114828daf2c356a20621",
-                "sha256:56da0ccd5c21d72d64ff1e0d310e4683c70d44735bf754985b715a57ba6681af"
+                "sha256:55a7d1c5f0bb988382206a60272fe46de0c8e829441d651d996422bf43424ad1",
+                "sha256:9ca7be24ec73d74902ee1815ccf33a64ad30c6735baf456bd7709041b2cbd75a"
             ],
             "index": "pypi",
-            "version": "==0.0.4"
+            "version": "==0.0.7"
         },
         "toml": {
             "hashes": [

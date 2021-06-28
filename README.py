@@ -7,7 +7,8 @@ from readme_py import (
     bold,
     generate,
     ULi,
-    Link
+    Link,
+    Br
 )
 
 
@@ -78,9 +79,9 @@ socialLinks = [
 
 class ConnectWithMe(Section):
     title = "Connect with me"
+    space_between_elements = False
     inner = [
-        *[Link(f"""<img align="left" alt="{i["alt"]}" src="https://img.shields.io/badge/{i["logo"]["text"]}-{i["logo"]["backColor"]}.svg?&style={i["logo"]["style"]}&logo={i["logo"]["logo"]}&logoColor={i["logo"]["logoColor"]}" />""", i["href"]) for i in socialLinks],
-        P("<br/><br/>")
+        *[Link(f"""<img alt="{i["alt"]}" src="https://img.shields.io/badge/{i["logo"]["text"]}-{i["logo"]["backColor"]}.svg?&style={i["logo"]["style"]}&logo={i["logo"]["logo"]}&logoColor={i["logo"]["logoColor"]}" />""", i["href"]) for i in socialLinks],
     ]
 
 
@@ -110,16 +111,41 @@ expertiseBadges = [
         "name": "django",
         "text": "django",
         "style": "for-the-badge",
-        "logoColor": "%23323330",
-        "backColor": "%23F0DB4F",
+        "logoColor": "white",
+        "backColor": "%23092e20",
     },
 ]
 
 
 class Expertise(Section):
     title = "Expertise"
+    space_between_elements = False
     inner = [
-        *[P(f"""<img align="left" alt="{i["name"]}" src="https://img.shields.io/badge/{i["name"]}-{i["backColor"]}.svg?&style={i["style"]}&logo={i["name"]}&logoColor={i["logoColor"]}" />""") for i in expertiseBadges]
+        *[P(f"""<img alt="{i["name"]}" src="https://img.shields.io/badge/{i["name"]}-{i["backColor"]}.svg?&style={i["style"]}&logo={i["name"]}&logoColor={i["logoColor"]}" />""") for i in expertiseBadges]
+    ]
+
+
+class SpentTimeOn(Section):
+    have_header = False
+    space_between_elements = False
+    inner = [
+        P(bold("📊 This Week I Spent My Time On:")),
+        Br(),
+        P("<!--START_SECTION:waka-->"),
+        Br(),
+        P("<!--END_SECTION:waka-->")
+    ]
+
+
+class GithubStats(Section):
+    have_header = False
+    inner = [
+        P(bold("📈 My GitHub Stats:")),
+        P("""\
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YunisDEV&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunisDEV&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>""")
     ]
 
 
@@ -128,7 +154,9 @@ readme = Readme(
         Head(),
         AboutMe(),
         ConnectWithMe(),
-        Expertise()
+        Expertise(),
+        SpentTimeOn(),
+        GithubStats()
     ],
     have_header=False
 )

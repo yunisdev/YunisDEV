@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-readme-py = "*"
 autopep8 = "*"
+readme-py = "*"
 
 [dev-packages]
 
