@@ -24,8 +24,7 @@ I am 17 y.o Web Developer from Azerbaijan🇦🇿
 **📊 This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 33 mins   ██████████████████████░░░   87.43 % 
-CSS          22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
