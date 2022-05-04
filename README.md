@@ -4,11 +4,11 @@
 
 ## About me
 
-I am 17 y.o Web Developer from Azerbaijan🇦🇿
+I am 18 y.o Web Developer from Azerbaijan🇦🇿
 
 **Personal Stuffs:**
 
--	👨🏻‍💻 I’m currently working on something cool;
+-	💻 I’m currently working on something cool;
 -	💬 Ask me about anything, I am happy to help;
 -	📝 I write articles on [medium](https://yunisdev.medium.com/);
 -	📫 How to reach me: yunisdev.04@gmail.com;
@@ -20,13 +20,6 @@ I am 17 y.o Web Developer from Azerbaijan🇦🇿
 ## Expertise
 
 <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img alt="python" src="https://img.shields.io/badge/python-%234B8BBE.svg?&style=for-the-badge&logo=python&logoColor=white" /><img alt="javascript" src="https://img.shields.io/badge/javascript-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" /><img alt="django" src="https://img.shields.io/badge/django-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
-
-**📊 This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 **📈 My GitHub Stats:**
 
