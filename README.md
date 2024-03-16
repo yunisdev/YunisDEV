@@ -4,9 +4,7 @@
 
 ## About me
 
-I am 20 y.o Web Developer from Azerbaijan.
-
-**Personal Stuffs:**
+I am 20 y.o developer from Azerbaijan.
 
 -	💻 I’m currently working on something cool;
 -	💬 Ask me about anything, I am happy to help;
