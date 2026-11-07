@@ -1,16 +1,15 @@
-## Hi there 👋
+# Yunis Huseynzade
 
-<!--
-**yunisdev/YunisDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Researcher at Digital Research Lab (Baku). I build fast, physics-based and machine-learning
+surrogate models that let engineering systems be monitored and optimised in real time — currently
+for oil & gas production.
 
-Here are some ideas to get you started:
+**MSc, Intelligent Systems** (UNEC, 2027). Thesis: physics-informed models for lithium-ion battery
+state-of-health — and how to evaluate them fairly (leakage-free splits, equal-information
+baselines, statistical power). Paper in preparation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** scientific machine learning · surrogate and reduced-order modelling · uncertainty and
+evaluation methodology · production system modelling and optimisation
+
+[ORCID 0009-0003-4261-828X](https://orcid.org/0009-0003-4261-828X) ·
+[LinkedIn](https://www.linkedin.com/in/yunisdev/) · yunisdev.04@gmail.com
