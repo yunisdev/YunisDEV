@@ -1,6 +1,6 @@
 # Yunis Huseynzade
 
-Junior Researcher at Digital Research Lab (Baku). I build fast, physics-based and machine-learning
+Researcher at Digital Research Lab (Baku). I build fast, physics-based and machine-learning
 surrogate models that let engineering systems be monitored and optimised in real time — currently
 for oil & gas production.
 
